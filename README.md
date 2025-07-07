@@ -13,7 +13,3 @@ Urban parking lots often suffer from inefficiencies due to static pricing. This 
 - GitHub
 
 ---
-
-## Architecture Diagram
-
-![Architecture Diagram](./images/architecture diagram png.svg)
